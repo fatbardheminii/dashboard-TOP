@@ -5,7 +5,7 @@ sidebar navigation, main content area, and right-side containers for announcemen
 
 ## Preview
 
-![Dashboard Preview](images/preview.png)
+![Dashboard Preview](images/Preview.png)
 
 ## Features
 
